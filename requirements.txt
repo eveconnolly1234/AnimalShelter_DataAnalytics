@@ -1,0 +1,12 @@
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import matplotlib.patches as mpatches
+%matplotlib inline
+from matplotlib.backends.backend_pdf import PdfPages
+from datetime import datetime
+import time
+import calendar
+import seaborn as sns
+# Use seaborn style defaults and set the default figure size
+sns.set(rc={'figure.figsize':(11, 4)})
