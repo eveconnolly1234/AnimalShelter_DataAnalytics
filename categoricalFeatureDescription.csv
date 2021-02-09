@@ -1,0 +1,11 @@
+,count,unique,top,freq
+Name_Intake,638,550,Luna,7
+Found Location,1000,784,Austin (TX),157
+Intake Type,1000,5,Stray,736
+Intake Condition,1000,7,Normal,863
+Animal Type_Intake,1000,4,Dog,509
+Sex upon Intake,1000,5,Intact Male,351
+Breed_Intake,1000,211,Domestic Shorthair Mix,299
+Color_Intake,1000,104,Black,102
+Sex upon Outcome,1000,5,Neutered Male,331
+binary_outcome,1000,2,positive,903
