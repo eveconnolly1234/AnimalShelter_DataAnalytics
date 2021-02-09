@@ -35,8 +35,9 @@ Exploring relationships between feature pairs.
   <li>
 Transforming and combining the existing features to create new features.
       </li>
+  </ul>
 
-
+<br>
 Further analysis of dataset (Shelter_AnalysisUpdated.ipnyb):
 
 # Includes:
