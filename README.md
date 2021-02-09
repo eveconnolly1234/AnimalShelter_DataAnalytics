@@ -1,6 +1,8 @@
 # AnimalShelter_DataAnalytics
 Data exploratory analysis of animal shelter data.
 
+*requirements.txt required to execute code
+
 The dataset we work with is a sample of the data released by an animal shelter provided by Professor Georgiana Ifrim of UCD.. The aim is to predict the binary outcome of an animal in the shelter, for this variable, the value “1” indicates that after intake, the animal outcome was negative, e.g., "death", while the value "0" indicates that the animal outcome was a positive one, e.g., was adopted or returned to the owner. 
 
 # Inlcudes:
